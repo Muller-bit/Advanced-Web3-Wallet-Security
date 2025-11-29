@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Advabced Web3 Wallet Security
 
 - This track will help you learn:
@@ -17,12 +16,14 @@
 
 - Use of tools like Cyfrin Safe Hash, OpenZeppelin Safe Utils, Swiss Knife, and more
 
-- How to build disaster recovery strategies for wallet compromise scenarios
-=======
+- # How to build disaster recovery strategies for wallet compromise scenarios
+
 ## Advanced-Web3-Wallet-Security
+
 <img width="477" height="165" alt="image" src="https://github.com/user-attachments/assets/f70c44f7-8500-40a5-8c09-2303bd39a4c2" />
 
 A foundational overview to Navigating the Path to a Qualified Signer: An Introduction to Advanced Wallet Operations - This curriculum empowers aspiring Qualified Signers with critical skills for secure advanced wallet operations
+
 ### Navigating the Path to a Qualified Signer: An Introduction to Advanced Wallet Operations
 
 ## Core Competencies You Will Develop
@@ -43,15 +44,11 @@ A foundational overview to Navigating the Path to a Qualified Signer: An Introdu
 
 - AI in Transaction Analysis
 - Wise Signer (wise-signer.cyfrin.io):
-  
+
 ## The Undeniable Responsibility of a Qualified Signer
+
 - Wallet UX is Not a Substitute for Knowledge: Even the most intuitive wallet interface cannot protect you if you do not fundamentally understand what you are authorizing.
 
 - Accountability: If you mistakenly sign a malicious transaction, leading to the loss of company funds or other valuable assets, the responsibility will ultimately rest with you.
 
 - Technical Depth is Non-Negotiable: To be a truly "Qualified Signer" for advanced wallets and complex transactions, a robust technical understanding—especially of Solidity fundamentals, call data structures, and the operational mechanics of smart contracts—is not just recommended, it's essential.
-
-
-
-
->>>>>>> ae69d9f473c987705dcc69af28bea0cb23ee5197
