@@ -1,4 +1,6 @@
-- ### Advanced-Web3-Wallet-Security
+## Advanced-Web3-Wallet-Security
+
+- A foundational overview to Navigating the Path to a Qualified Signer: An Introduction to Advanced Wallet Operations - This curriculum empowers aspiring Qualified Signers with critical skills for secure advanced wallet operations.
 
 ### Navigating the Path to a Qualified Signer: An Introduction to Advanced Wallet Operations
 

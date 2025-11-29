@@ -16,7 +16,7 @@
 
 - Use of tools like Cyfrin Safe Hash, OpenZeppelin Safe Utils, Swiss Knife, and more
 
-- # How to build disaster recovery strategies for wallet compromise scenarios
+- ## How to build disaster recovery strategies for wallet compromise scenarios
 
 ## Advanced-Web3-Wallet-Security
 
@@ -24,7 +24,7 @@
 
 A foundational overview to Navigating the Path to a Qualified Signer: An Introduction to Advanced Wallet Operations - This curriculum empowers aspiring Qualified Signers with critical skills for secure advanced wallet operations
 
-### Navigating the Path to a Qualified Signer: An Introduction to Advanced Wallet Operations
+- Navigating the Path to a Qualified Signer: An Introduction to Advanced Wallet Operations
 
 ## Core Competencies You Will Develop
 
