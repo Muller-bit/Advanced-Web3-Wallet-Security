@@ -32,6 +32,6 @@
 - By clicking the explorer you can view the wallets activity.
 - Initial state with 0 tnx is empty.
   ![alt text](image-5.png)
-- On the explorer we can check also on the contract section the contract creator and also first time deployment 
+- On the explorer we can check also on the contract section the contract creator and also first time deployment
 
 ![alt text](image-6.png)
