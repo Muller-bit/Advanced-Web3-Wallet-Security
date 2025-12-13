@@ -10,9 +10,9 @@
 
 - EIP-712 structured data signing and validation
 
-- Safe wallet setup, multi-sig configuration, and best practices
+- Safe wallet setup, multi-sig configuration, and best practices.
 
-- How to analyze real-world wallet hacks and apply protections
+- How to analyze real-world wallet hacks and apply protections.
 
 - Use of tools like Cyfrin Safe Hash, OpenZeppelin Safe Utils, Swiss Knife, and more
 

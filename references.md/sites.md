@@ -11,7 +11,7 @@
 
 ### Step 2
 
-- Owner and confirmations - how many need to confirm the execute a valid txn , at least 2 or 3 .
+- Owner and confirmations - how many need to confirm the execute a valid txn , at least 2 or 3.
   ![alt text](image-1.png)
 
 ### Step 3
