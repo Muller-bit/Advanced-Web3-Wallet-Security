@@ -1,6 +1,7 @@
 # Mastering Private Key Hygiene: Your Guide to Secure Web3 Wallet Management
 
 - Dont store your keys in plain text or cloud service provider or password manager
+- Encrypted wallets are second line of defence than plain text
 
 ## 1. Practice Discretion Regarding Your Crypto Wealth
 

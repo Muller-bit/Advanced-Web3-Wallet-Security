@@ -26,3 +26,9 @@
 - Risk-related context
 
 - With Safe, you can send multiple transactions to multiple recipients in a single transaction, which isn’t possible with a standard EOA wallet.
+
+## We can connect Hardware wallet with metamask got to add account -> harware wallet -> then select from the list.
+ ![alt text](image-2.png)
+
+
+ 
