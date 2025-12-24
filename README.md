@@ -1,4 +1,4 @@
-## Advabced Web3 Wallet Security
+## Advanced Web3 Wallet Security
 
 - This track will help you learn:
 
@@ -22,7 +22,9 @@
 
 <img width="477" height="165" alt="image" src="https://github.com/user-attachments/assets/f70c44f7-8500-40a5-8c09-2303bd39a4c2" />
 
-A foundational overview to Navigating the Path to a Qualified Signer: An Introduction to Advanced Wallet Operations - This curriculum empowers aspiring Qualified Signers with critical skills for secure advanced wallet operations
+A foundational overview to Navigating the Path to a Qualified Signer: An Introduction to Advanced Wallet Operations.
+
+- This curriculum empowers aspiring Qualified Signers with critical skills for secure advanced wallet operations
 
 - Navigating the Path to a Qualified Signer: An Introduction to Advanced Wallet Operations
 
