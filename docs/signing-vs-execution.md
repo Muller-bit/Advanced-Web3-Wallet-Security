@@ -21,3 +21,17 @@
 ## Shows case image
 
 -![alt text](image-4.png)
+
+# Tools to verify and decode calldata
+
+- tools.cyfrin.io
+
+![alt text](image-5.png)
+
+### Option II paste the calldata on the swiss knife and you will get the same result of the decoded data , the spender address
+
+- ![alt text](image-6.png)
+
+- So how about Message hash and domain hash
+- To find out this just go to Hashes section on the advance txn details
+- ![alt text](image-7.png)
