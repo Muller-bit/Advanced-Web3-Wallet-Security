@@ -3,7 +3,7 @@
 - We are trying to approve 10 USDC on Uniswap v2 Router
 - From the tx builder check the function approve() , spender address , the value in uint256
 
-- approve() --> this function sets a fiat token allowance for a spender to spend on behalf of the caller , and it takes , the spender address, and the amount of the token in uint256 type 
+- approve() --> this function sets a fiat token allowance for a spender to spend on behalf of the caller , and it takes , the spender address, and the amount of the token in uint256 type
 
 ![alt text](image-3.png)
 
@@ -39,16 +39,19 @@
 - ![alt text](image-7.png)
 
 ## cast calldata
-- We can use cast calldata to fetch the calldata  and compare it
+
+- We can use cast calldata to fetch the calldata and compare it
 - ![alt text](image-8.png)
-## the best way to see all the details under 
-- We pass the raw data instead of trustin  and getting it from API 
-- here we need to stay --offline and attach the USDC address to it 
+
+## the best way to see all the details under
+
+- We pass the raw data instead of trustin and getting it from API
+- here we need to stay --offline and attach the USDC address to it
 - ![alt text](image-9.png)
 
-- The result will be intersting 
-![alt text](image-10.png)
+- The result will be intersting
+  ![alt text](image-10.png)
 - Finally now we can compare the safe txn hash , message hash , domain hash , it the same so we can sign now .
 - attacjed below for comparison.
 
--  ![alt text](image-11.png)
+- ![alt text](image-11.png)
