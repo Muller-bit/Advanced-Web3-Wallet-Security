@@ -36,3 +36,5 @@ This repository focuses on **defensive transaction verification** to prevent UI-
 
 **Author:** Mulualem Darimo  
 **Focus:** Web3 Security · Safe{Wallet} · Transaction Verification
+<img width="1895" height="862" alt="image" src="https://github.com/user-attachments/assets/6bae614a-3b98-4f24-af8d-788ba87821e7" />
+
